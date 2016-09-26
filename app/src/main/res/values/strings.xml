@@ -3,4 +3,5 @@
     <string name="saveDescription">Touch this button to save your tagged search</string>
     <string name="tagPrompt">Tag your search</string>
     <string name="taggedSearches">Tagged Searches</string>
+    <string name="searchURL">http://mobile.twitter.com/search/</string>
 </resources>

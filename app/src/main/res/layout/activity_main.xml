@@ -74,6 +74,6 @@
             android:paddingTop="@dimen/activity_vertical_margin"
             android:layout_marginTop="@dimen/tagged_searches_padding"
             android:layout_marginBottom="@dimen/tagged_searches_padding"
-            android:id="@+id/list"></ListView>
+            android:id="@id/android:list"></ListView>
     </LinearLayout>
 </GridLayout>
